@@ -1,0 +1,5 @@
+O repositório Local-turistico de ademir-ths no GitHub, frequentemente associado a desafios da Rocketseat, consiste em uma página web focada em turismo, utilizando HTML e CSS para estruturação e estilização. O projeto tipicamente apresenta destinos como Busan, na Coreia do Sul, organizado por meio de um arquivo index.html, style.css e uma pasta de ativos, comumente documentado no README.md. Explore o repositório em GitHub.
+<img width="867" height="552" alt="Captura de tela de 2026-04-22 10-02-26" src="https://github.com/user-attachments/assets/d2b3b6ae-372c-4690-a6a7-918242763c73" />
+<img width="865" height="378" alt="Captura de tela de 2026-04-22 10-02-08" src="https://github.com/user-attachments/assets/4b05a761-49b2-47cc-a780-2b5e0ebd3321" />
+<img width="875" height="519" alt="Captura de tela de 2026-04-22 10-01-37" src="https://github.com/user-attachments/assets/60a3fc69-11f5-4042-9ee2-27eb223b2873" />
+<img width="865" height="590" alt="Captura de tela de 2026-04-22 10-01-12" src="https://github.com/user-attachments/assets/7d605891-021b-46e5-be47-123ef676604a" />
